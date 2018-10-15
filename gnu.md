@@ -24,8 +24,6 @@ La GPL fue basada en unificar licencias utilizadas en
 - Libertad para compartir las modificaciones que le has hecho al software
 ### Fuentes
 
-Dillinger uses a number of open source projects to work properly:
-
 * [wikipedia](http://wikipedia.org)
 * [GNU](https://www.gnu.org/licenses/quick-guide-gplv3.html)
 
