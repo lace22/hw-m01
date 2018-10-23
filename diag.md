@@ -1,0 +1,15 @@
+# Diagnostico.
+
+Lo primero que hicimos, es quitar los tornillos del panel lateral del ordenador, a veces es necesario destornillador, otras se pueden sacar con la mano.
+Después se nos enseñó el simbolo de la corriente continua y alterna de un tester
+![alt text](https://github.com/lace22/hw-m01/blob/master/draw1.png?raw=true "Logo Title Text 1")
+Se nos explicó como se cambia la pasta térmica de la CPU, quitando primero el disipador mirando su correspondiente manual, limpiando la pasta anterior, y con un plastico duro aplicar la nueva pasta.
+Después con el tester, probamos con el modo continuidad si algunos objetos pasaban electricidad.
+Fuimos a desenchufar el botón de encendido de los pines de la placa para hacer el test de continuidad así que fuimos al manual de la placa para ver que pines eran exactamente.
+Desenchufamos el botón de encender y efectivamente, funcionaba con el test de continuidad.
+En caso de que el botón de encendido sea el problema, simplemente enchufar el botón de reiniciar en los pines para el botón de encender.
+Después enchufamos el cable ATX de 24 pines al tester especial y vimos que un pin no llegaba a dar el voltaje adecuado.
+Para acabar, con un clip haciendo puente entre el pin PWR_OK y el 5VSB podemos mantener la fuente de alimentación encendida y podemos probar voltajes con un tester tradicional
+
+![alt text](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FVZS6f.jpg&f=1 "FDSFS")
+
