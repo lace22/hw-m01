@@ -15,6 +15,8 @@ Ejemplo de conectores de placa.
 
 Desenchufamos el botón de encender y efectivamente, funcionaba con el test de continuidad.
 En caso de que el botón de encendido sea el problema, simplemente enchufar el botón de reiniciar en los pines para el botón de encender.
+A la hora de enchufar los pines del panel frontal otra vez, hay que tener cuidado con la polaridad, ya que en corriente continua no funciona si no está correctamente.
+Habitualmente el cable blanco es el positivo, si no hay cable blanco, el lado positivo suele estar marcado con una flecha en relieve.
 Después enchufamos el cable ATX de 24 pines al tester especial y vimos que un pin no llegaba a dar el voltaje adecuado.
 Para acabar, con un clip haciendo puente entre el pin PWR_OK y el 5VSB podemos mantener la fuente de alimentación encendida y podemos probar voltajes con un tester tradicional
 
