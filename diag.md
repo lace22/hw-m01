@@ -2,6 +2,7 @@
 
 Lo primero que hicimos, es quitar los tornillos del panel lateral del ordenador, a veces es necesario destornillador, otras se pueden sacar con la mano.
 Para saber que tapa hay que sacar, en caso de no haber ventana, la tapa al lado contrario de los conectores es la correcta.
+Un buen sitio para dejar los tornillos es en el teclado
 
 Después se nos enseñó el simbolo de la corriente continua y alterna de un tester
 ![alt text](https://github.com/lace22/hw-m01/blob/master/draw1.png?raw=true "Logo Title Text 1")
