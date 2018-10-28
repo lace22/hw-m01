@@ -31,3 +31,5 @@ Este tipo de entornos graficos controlan el comportamiento de las ventanas en fo
 Ejemplos:
 - i3
 - Wmii
+
+![alt text](img/i3.png "FDSFS")
