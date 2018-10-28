@@ -3,6 +3,9 @@
 El kernel es el nucleo del sistema operativo, es el encargado de comunicarse directamente con el hardware, y 
 administrar el uso de procesador y memoria ram de las aplicaciones.
 El kernel ocupa en RAM unos 150MB aproximadamente. 
+
+![alt text](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fknowstuffs.files.wordpress.com%2F2012%2F06%2Ffigure2.jpg&f=1 "FDSFS")
+
 ## GUI - CLI
 
 Para usar el sistema operativo, es necesario o una linea de comandos (CLI) o un entorno gráfico.
