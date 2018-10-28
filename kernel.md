@@ -20,7 +20,6 @@ Ejemplos:
 - XFCE
 - Mate
 - Cinnamon
-![alt text](img/kde.png "FDSFS")
 
 ### Gestor de ventanas
 A diferencia de los entornos de escritorio, un gestor de ventanas solo proporciona el layout y los controles de 
