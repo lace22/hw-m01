@@ -1,8 +1,4 @@
-# Comando Watch
-El comando watch se usa para ejecutar un determinado comando a intervalos regulares. Muestra el resultado del comando en una consola completamente limpia de otros contenidos para hacer mas facil observar los cambios del output.
-## Cambiar el intervalo del comando
-Para cambiar el intervalo se usa el parametro `-n` acompañado de el intervalo en segundos.
-Por defecto los intervalos son de dos segundos, pero usando `-n 1` el intervalo entre ejecución será de un segundo
-## Ejemplo
-`watch -n 1 vmstat -s`
-Nos muestra información de la RAM que se actualiza cada segundo
+# Control+Z y BG
+
+La combinación Control+Z en una terminal de Linux hace que el proceso que se esté ejectuando en esta terminal, pase a segundo plano, dejando la terminal ocupada por el proceso libre para escribir.
+Si además queremos que el proceso suspendido salga de segundo plano y siga siendo utilizable para el usuario, podemos hacer esto con el comando `bg` y el numero del proceso (se puede ver con el comando bg)
