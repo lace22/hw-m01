@@ -1,0 +1,3 @@
+- Instalar OpenBox
+- Configuración de Red
+- Comandos Fdisk
