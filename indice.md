@@ -1,4 +1,3 @@
-# Indice
 1. Deberes probar VirtualBox y Gandalf.
 2. Sistemas de particiones
     - Reglas de partición en Windows.
@@ -38,16 +37,16 @@
  16. Deberes “Que PC me compro”
  17. Fuente de alimentación, caja y refrigeración
  18. Git
-  	- Github
-	- Gitlab
-    - Que es MarkDown
+     - Github
+     - Gitlab
+     - Que es MarkDown
  19. Deberes crear cuenta en Gitlab y Github y ponerlo en Markdown
  20. GNU/GPL en markdown
  21. Práctica: uso del tester y diagnóstico de PC
  22. Que contiene el MBR
-    - Tabla de particiones
-    - Boot Manager
-    - Firma 
+     - Tabla de particiones
+     - Boot Manager
+     - Firma 
  23. Borrar y crear particiones en Fdisk
  24. Clusters y Sectores
 25. Formato de un Pen/DD
