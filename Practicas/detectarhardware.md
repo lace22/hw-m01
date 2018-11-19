@@ -10,4 +10,4 @@ Para ver el hardware con interfaz gráfica podemos usar `lshw-gui`, que nos mues
 ![alt text](hw/3.png "3")
 ## Windows
 En Windows para detectar el hardware podemos usar `CPU-Z` y `Speccy`, ambos gratuitos
-![alt text](hw/3.png "4")
+![alt text](hw/4.png "4")
