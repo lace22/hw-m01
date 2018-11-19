@@ -54,6 +54,7 @@
 26. Arquitectura 32 bits y 64 bits
     - En sistemas operativos
     - En CPU
+    - Limitaciones
 27. Repaso particiones
 28. Sistema Operativo Linux
     - Kernel
